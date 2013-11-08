@@ -1,0 +1,35 @@
+Prep Time
+Cook Time
+Servers #
+Categories = ("Breakfast", "Lunch", "Dinner", "Deserts", "Snack)
+Add to shopping list
+
+Shopping List
+Timers w/ Alarms
+Measurement Calculators
+Favorites
+Progress indicators
+Nutrution calculator
+
+Courses
+Chefs
+
+Add a Recipe
+
+-- 	Summary
+	Name
+	Photo Upload
+	Short Description (optional)
+	Prep Time
+	Cook Time
+	# it servers
+	
+--  Ingredients
+	Amount
+	Unit Measurement
+	Name
+	
+--  Instructions
+	Step # - Auto Generated
+	Short Description of step
+
